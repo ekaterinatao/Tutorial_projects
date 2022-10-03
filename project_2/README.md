@@ -5,16 +5,16 @@
 [2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2/README.md#Aim)
 
 ## Description
-Solutions of homework tasks.  
+Solutions of homework tasks using basic python and Numpy.
 
 ## Aim
 Solve basic problems.
 
 **Briefing**  
 - There are some different problems.
-- Solutions are represented as functions. 
+- Most solutions are represented as functions. 
 
 **Skills**  
-Learn to write good code.
-Train array processing.
-Train basic Numpy skills.
+Learn to write good code.  
+Train array processing.  
+Train basic Numpy skills.  
