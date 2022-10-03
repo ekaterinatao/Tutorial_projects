@@ -8,7 +8,7 @@
 Solutions of homework tasks.  
 
 ## Aim
-Solve 10 problemss and learn to write good code.
+Solve 10 problems and learn to write good code.
 
 **Briefing**  
 - There are 10 different basic problems.
