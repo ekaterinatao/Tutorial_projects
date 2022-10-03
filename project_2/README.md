@@ -1,4 +1,4 @@
-# Project 2. Homework 2.
+# Project 2. Homework 2. Basic python and Numpy.
 
 ## Table of contents
 [1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2/README.md#Description)  
