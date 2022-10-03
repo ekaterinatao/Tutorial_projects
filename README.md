@@ -5,3 +5,4 @@ It's tutorial repository from the [Master Data Science program](https://new.skil
 
 * [Project 0. Game: Guess the number](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_0)
 * [Project 1. Homework 1. Solve 10 Problems.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_1)
+* [Project 2. Homework 2.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2)
