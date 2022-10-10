@@ -12,5 +12,5 @@ Solve some problems using Python Standard Library, Numpy and Pandas.
 
 **Skills**  
 Learn to write good code.  
-Train Numpy skills.
+Train Numpy skills.  
 Train basic Pandas skills.  
