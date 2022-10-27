@@ -20,7 +20,7 @@ Data preprocessing and analytics in correctly merged dataset.
 
 **Skills**  
 Learn to write good code.  
-Train Pandas skills.
+Train Pandas skills.  
 Train visualisation skills.
 
 ## Datasets
