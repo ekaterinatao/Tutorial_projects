@@ -35,7 +35,7 @@ You can find original dataset in the project folder.
 - Prod — production per day (million cubic feet).  
 
 ## Results
-- At the beginning of the notebook short analytics.  
+- There is short analytics at the beginning of the notebook.  
 - Multi-collinear predictors were removed.
 - Data was standardized using StandardScaler.
 - Simple linear regression model was performed on your own, than using sklearn.
