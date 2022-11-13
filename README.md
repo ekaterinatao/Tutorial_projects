@@ -8,3 +8,4 @@ It's tutorial repository from the [Master Data Science program](https://new.skil
 * [Project 2. Homework 2. Basic Python and Numpy.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2)
 * [Project 3. Homework 3. Numpy. Pandas.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_3)
 * [Project 4. Homework 4. Data preprocessing and analytics.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4)
+* [Project 5. Homework 5. Linear regression.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5)
