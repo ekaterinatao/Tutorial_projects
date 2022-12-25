@@ -1,8 +1,8 @@
 # Project 3. Homework 3. Numpy. Pandas.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_3/README.md#description)  
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_3/README.md#aim)
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_3#description)  
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_3#aim)
 
 ## Description
 Solutions of homework tasks using Numpy and Pandas.

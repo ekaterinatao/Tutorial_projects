@@ -1,10 +1,10 @@
 # Project 8. Data analytics and hypothesis testing. Dataset: tennis ATP.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8/README.md#description)   
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8/README.md#aim)  
-[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8/README.md#datasets)  
-[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8/README.md#results)  
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#description)   
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#aim)  
+[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#datasets)  
+[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#results)  
 
 ## Description
 We should perform descriptive statistics with hypothesis testing of tennis dataset.  

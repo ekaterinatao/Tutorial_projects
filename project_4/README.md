@@ -1,10 +1,10 @@
 # Project 4. Homework 4. Data preprocessing and analytics.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4/README.md#description)   
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4/README.md#aim)  
-[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4/README.md#datasets)  
-[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4/README.md#results)  
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4#description)   
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4#aim)  
+[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4#datasets)  
+[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_4#results)  
 
 ## Description
 Merging 3 datasets and perform data preprocessing and analytics.

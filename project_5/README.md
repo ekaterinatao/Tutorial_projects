@@ -1,10 +1,10 @@
 # Project 5. Homework 5. Linear regression.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5/README.md#description)   
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5/README.md#aim)  
-[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5/README.md#datasets)  
-[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5/README.md#results)  
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5#description)   
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5#aim)  
+[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5#datasets)  
+[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_5#results)  
 
 ## Description
 There is oil and gas company. We should perform linear regression model to evaluate factors that influense on gas production.

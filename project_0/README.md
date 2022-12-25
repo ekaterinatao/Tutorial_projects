@@ -1,8 +1,8 @@
 # Project 0. Guess the number
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_0/README.md#description)  
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_0/README.md#aim)
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_0#description)  
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_0#aim)
 
 ## Description
 Guess the number which is randomly set by mashine for minimum number of trials.  

@@ -1,9 +1,9 @@
 # Project 7. SQL in Python.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7/README.md#description)   
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7/README.md#aim)  
-[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7/README.md#datasets)  
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7#description)   
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7#aim)  
+[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7#datasets)  
 
 ## Description
 We should perform descriptive analytics of bank clients data and create own dataset using QSL.  

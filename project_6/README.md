@@ -1,10 +1,10 @@
 # Project 6. Homework 6. Optimization: coordinate descent, stochastic gradient descent  
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6/README.md#description)   
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6/README.md#aim)  
-[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6/README.md#datasets)  
-[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6/README.md#results)  
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6#description)   
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6#aim)  
+[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6#datasets)  
+[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6#results)  
 
 ## Description
 There is Advertising dataset. We should perform linear regression model and optimize its loss-function with both coordinate descent and stochastic gradient descent.
