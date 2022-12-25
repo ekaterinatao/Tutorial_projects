@@ -1,8 +1,8 @@
 # Project 2. Homework 2. Basic python and Numpy.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2/README.md#Description)  
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2/README.md#Aim)
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2/README.md#description)  
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_2/README.md#aim)
 
 ## Description
 Solutions of homework tasks using basic python and Numpy.

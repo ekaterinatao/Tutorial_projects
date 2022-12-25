@@ -1,8 +1,8 @@
 # Project 1. Homework 1. Solve 10 Problems.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_1/README.md#Description)  
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_1/README.md#Aim)
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_1/README.md#description)  
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_1/README.md#aim)
 
 ## Description
 Solutions of homework tasks.  
