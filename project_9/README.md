@@ -1,10 +1,10 @@
 # Project 9. Data analytics and hypothesis testing. Dataset: Spatial Omics.
 
 ## Table of contents
-[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#description)   
-[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#aim)  
-[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#datasets)  
-[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#results)  
+[1. Description](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_9#description)   
+[2. Aim](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_9#aim)  
+[3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_9#datasets)  
+[4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_9#results)  
 
 ## Description
 We should perform descriptive statistics with hypothesis testing of dataset containing information of Spatial Omics.  
@@ -25,7 +25,7 @@ Train to write bootstrap and permutation tests code.
 ## Datasets
 You can find original dataset in the project folder.   
 
-**Parameters**
+**Parameters**  
 cell_type;  
 cell_interaction;  
 age_group;  
