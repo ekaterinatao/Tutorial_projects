@@ -12,3 +12,4 @@ It's tutorial repository from the [Master Data Science program](https://new.skil
 * [Project 6. Optimization: coordinate descent, stochastic gradient descent](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_6)
 * [Project 7. SQL in Python.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7)
 * [Project 8. Data analytics and hypothesis testing. Dataset: tennis ATP.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8)
+* [Project 9. Data analytics and hypothesis testing. Dataset: Spatial Omics.](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_9)
