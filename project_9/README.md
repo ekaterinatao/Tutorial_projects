@@ -15,7 +15,7 @@ To test some hypothesis, perform bootstrap and permutation tests of omics data.
 **Briefing**  
 - There is dataset containing information of Spatial Omics.
 - We should perform descriptive statistics and check some hypothesis.
-- We should realize algorithm of bootstrap and permutation tests.  
+- We should implement algorithm of bootstrap and permutation tests.  
 
 **Skills**  
 Learn to write good code.  
@@ -25,7 +25,7 @@ Train to write bootstrap and permutation tests code.
 ## Datasets
 You can find original dataset in the project folder.   
 
-**Parameters**  
+**Features**  
 cell_type;  
 cell_interaction;  
 age_group;  

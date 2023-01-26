@@ -16,7 +16,7 @@ Data preprocessing and analytics in correctly merged dataset.
 - There are 3 datasets with different shapes and variables.
 - We need to search for common features and corectly perform merging.
 - We need to perform data preprocessing and analytics in each single dataset and in merged one.
-- We should make conclusions about data and it's differencies.
+- We should make some conclusions about data without hypothesis testing.
 
 **Skills**  
 Learn to write good code.  
@@ -27,9 +27,9 @@ Train visualisation skills.
 You can find original datasets either in the project folder or using links at the beginning of the notebook.
 
 ## Results
-- At the beginning of the notebook all needed functions are presented.
+- All functions are presented at the beginning of the notebook.
 - Common features were renamed and datasets were concatinated using 'inner' method.
 - Rows containing more than 2 nans were removed.
 - Duplicates were removed.
-- Checking for outliers was performed using 3-sigm rule and medical thinking. Outliers were removed.
+- Checking for outliers was performed using the 3-sigm rule and medical thinking. Outliers were removed.
 - Different types of visualisation were performed.

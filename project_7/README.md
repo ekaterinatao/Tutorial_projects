@@ -6,7 +6,7 @@
 [3. Datasets](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_7#datasets)  
 
 ## Description
-We should perform descriptive analytics of bank clients data and create own dataset using QSL.  
+We should perform descriptive analytics of bank clients data and create own toy dataset using QSL.  
 
 ## Aim
 To train SQL skills.  
@@ -14,7 +14,7 @@ To train SQL skills.
 **Briefing**  
 - There is dataset.
 - We should perform descriptive analytics using QSL in Python (pandasql).
-- We should create own dataset using QSL in Python (sqlite3).
+- We should create own toy dataset using QSL in Python (sqlite3).
 - It's not allowed to use any other Python libraries (exept Pandas for reading data).  
 
 **Skills**  
@@ -24,7 +24,7 @@ Train SQL skills.
 ## Datasets
 You can find original dataset in the project folder.  
 
-**Parameters**
+**Features**
 - Cust_ID — customer ID;
 - Purchase — whether client has a mortgage (yes/no);
 - Cheq_Bal — check balance;

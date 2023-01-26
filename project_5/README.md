@@ -14,7 +14,7 @@ To evaluate factors that influense on gas production.
 
 **Briefing**  
 - There is dataset.
-- We should perform linear regression model with target parameter 'Prod'.  
+- We should implement linear regression model with target parameter 'Prod'.  
 
 **Skills**  
 Learn to write good code.  
@@ -24,7 +24,7 @@ Train Sklearn skills.
 ## Datasets
 You can find original dataset in the project folder.  
 
-**Parameters**
+**Features**
 - Well — well ID;
 - Por — porosity (%);
 - Perm — permeability;
@@ -38,7 +38,7 @@ You can find original dataset in the project folder.
 - There is short analytics at the beginning of the notebook.  
 - Multi-collinear predictors were removed.
 - Data was standardized using StandardScaler.
-- Simple linear regression model was performed on your own, than using sklearn.
+- Simple linear regression model was implemented on your own, than using sklearn.
 - Polinominal features transformation was performed using sklearn.preprocessing.
 - Lasso- and Ridge-regression were performed using sklearn.
 - All models were evaluated using sklearn cross validation on 5 folds.

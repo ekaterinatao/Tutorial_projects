@@ -10,7 +10,7 @@
 There is Advertising dataset. We should perform linear regression model and optimize its loss-function with both coordinate descent and stochastic gradient descent.
 
 ## Aim
-Realizing and comparing algorithms of coordinate descent and stochastic gradient descent.  
+Implementation and comparing algorithms of coordinate descent and stochastic gradient descent.  
 
 **Briefing**  
 - There is dataset.
@@ -19,20 +19,20 @@ Realizing and comparing algorithms of coordinate descent and stochastic gradient
 
 **Skills**  
 Learn to write good code.  
-Realizing algorithms of coordinate descent and stochastic gradient descent on your own.   
+Implement algorithms of coordinate descent and stochastic gradient descent on your own.   
 
 ## Datasets
 You can find original dataset in the project folder.  
 
-**Parameters**
+**Features**
 - TV — advertising costs on TV;
 - radio — advertising costs on radio;
 - newspaper — advertising costs on newspaper;
 - sales.  
 
 ## Results
-- Data was standardized using own algorithm.
+- Data was standardized using implemented algorithm.
 - Naive prediction isn't accurate.
-- Result of own coordinate descent algorithm is equal to sklearn realization.
+- Result of implemented coordinate descent algorithm is equal to sklearn realization.
 - Stochastic gradient descent minimises loss-function with small number of iterations, but it depends on initial random choise, given treshold and learning rate.
 - Metrics that were used: mean squared error.

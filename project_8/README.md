@@ -7,13 +7,13 @@
 [4. Results](https://github.com/ekaterinatao/Tutorial_projects/tree/main/project_8#results)  
 
 ## Description
-We should perform descriptive statistics with hypothesis testing of tennis dataset.  
+We should perform descriptive statistics of tennis dataset with hypothesis testing.  
 
 ## Aim
 To test some hypothesis and perform analytics of tennis data.  
 
 **Briefing**  
-- There are datasets since 1973 to 2022.
+- There are several datasets since 1973 to 2022.
 - We should use data since 1980 to 2022 only in single matches.
 - We should perform descriptive statistics and check some hypothesis. 
 
@@ -24,7 +24,7 @@ Train EDA and hypothesis testing.
 ## Datasets
 You can find original dataset in original [GitHub repository](https://github.com/JeffSackmann/tennis_atp)   
 
-**Parameters**
+**Features**
 You can find information about features [here](https://github.com/JeffSackmann/tennis_atp/blob/master/matches_data_dictionary.txt)   
 
 ## Results
